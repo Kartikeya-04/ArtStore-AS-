@@ -1,0 +1,64 @@
+.anim2 {
+  height: 25rem;
+  width: 25rem;
+  margin-top: -25rem;
+}
+.all {
+  height: 110vh;
+}
+.anim3 {
+  height: 22rem;
+  margin-bottom: 5rem;
+  margin-top: -5rem;
+}
+.head {
+  text-shadow: 2px 8px 10px white;
+}
+.anim1 {
+  margin-top: 1rem;
+  height: 20rem;
+  width: 7rem;
+  margin-left: 1.5rem;
+}
+.text1 {
+  font-size: x-large;
+}
+.text2 {
+  font-size: larger;
+  margin-bottom: 5rem;
+  margin-top: -1rem;
+}
+.text22 {
+  background-color: #451952;
+  border: 4px solid white;
+}
+body {
+  background: linear-gradient(
+    45deg,
+    #ff8c00,
+    #ff6969,
+    #ff8c00,
+    #ff4500,
+    #4caf50
+  );
+}
+/* .all2 {
+  background: linear-gradient(
+    45deg,
+    #ff8c00,
+    #ff6969,
+    #ff8c00,
+    #ff4500,
+    #4caf50
+  );
+} */
+.text11 {
+  background-color: #c23373;
+  border: 4px solid black;
+}
+.text11:hover {
+  box-shadow: 2px 2px 3px 3px;
+}
+.text22:hover {
+  box-shadow: 2px 2px 3px 3px;
+}

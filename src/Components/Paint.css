@@ -1,0 +1,30 @@
+html {
+  scroll-behavior: smooth;
+}
+.scale {
+  border: 10px solid black;
+  filter: drop-shadow(14px 14px 14px rgba(239, 239, 240, 0.8));
+}
+.scale:hover {
+  filter: drop-shadow(17px 17px 17px rgba(0, 0, 0, 0.8));
+  transform: scale(1.1);
+  border-top: 40px solid black;
+  border-bottom: 34px solid black;
+}
+.Title h1 {
+  font-size: larger;
+}
+.alls {
+  background-color: #e25e3e;
+  min-height: 120vh;
+  background: radial-gradient(ellipse, #f9b572, #ff8c00, #ff6969);
+}
+.art1:hover {
+  filter: drop-shadow(3px 3px 3px black);
+}
+.art2:hover {
+  filter: drop-shadow(3px 3px 3px black);
+}
+.Paintings img {
+  cursor: pointer;
+}
